@@ -1,0 +1,29 @@
+2025-05-03 18:19:25,530 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7405909eb45sm3242218b3a.166 - gsmtp')
+2025-05-03 18:19:25,532 - ERROR - Email test failed. Please check your email configuration.
+2025-05-03 18:20:20,335 - INFO - Email alert sent for phrase: System Test
+2025-05-03 18:20:20,338 - INFO - Email test successful. Starting speech detection...
+2025-05-03 18:20:22,707 - INFO - Speech detector initialized
+2025-05-03 18:20:22,707 - INFO - Starting to listen...
+2025-05-03 18:20:28,596 - INFO - Heard: allah hu akbar
+2025-05-03 18:20:28,597 - WARNING - ALERT! Detected phrase: allah hu akbar
+2025-05-03 18:20:31,565 - INFO - Email alert sent for phrase: allah hu akbar
+2025-05-03 18:21:56,220 - INFO - Email alert sent for phrase: System Test
+2025-05-03 18:21:56,221 - INFO - Email test successful. Starting speech detection...
+2025-05-03 18:21:58,611 - INFO - Speech detector initialized
+2025-05-03 18:21:58,612 - INFO - Starting to listen...
+2025-05-03 18:22:02,560 - INFO - Heard: attack now
+2025-05-03 18:22:02,562 - WARNING - ALERT! Detected phrase: attack now
+2025-05-03 18:22:06,256 - INFO - Email alert sent for phrase: attack now
+2025-05-03 18:27:52,088 - INFO - Email alert sent for phrase: System Test
+2025-05-03 18:27:52,089 - INFO - Email test successful. Starting speech detection...
+2025-05-03 18:27:54,465 - INFO - Speech detector initialized
+2025-05-03 18:27:54,466 - INFO - Starting to listen...
+2025-05-03 18:27:58,745 - INFO - Heard: allah hu akbar
+2025-05-03 18:27:58,747 - WARNING - ALERT! Detected phrase: allah hu akbar
+2025-05-03 18:27:58,805 - ERROR - 
+    Error 263 for command:
+        close alert.mp3
+    The specified device is not open or is not recognized by MCI.
+2025-05-03 18:27:58,806 - WARNING - Failed to close the file: alert.mp3
+2025-05-03 18:28:02,341 - INFO - Email alert sent for phrase: allah hu akbar
+2025-05-03 18:28:08,753 - INFO - Alert duration complete
